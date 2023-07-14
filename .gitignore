@@ -1,0 +1,6 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.log
+
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.67.0/linux_amd64/
