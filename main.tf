@@ -88,7 +88,7 @@ resource "aws_instance" "dev_node" {
   }
 
   tags = {
-    Name = "dev-node1"
+    Name = "dev-node"
   }
 
   provisioner "local-exec" {
